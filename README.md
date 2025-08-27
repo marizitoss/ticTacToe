@@ -71,11 +71,24 @@ The enemy AI uses the **Minimax algorithm**:
 ---
 
 ## 📂 Project Structure
-📁 Scripts
-┣ 📜 GameManager.cs
-┣ 📜 GridManager.cs
-┣ 📜 GridSquareManager.cs
-┗ 📜 Enums.cs (Turn, GameResult, GridSquareState)
+TICTACTOE
+┣ 📂 Assets
+┃ ┣ 📂 Arts
+┃ ┣ 📂 Fonts
+┃ ┣ 📂 Prefabs
+┃ ┣ 📂 Resources
+┃ ┣ 📂 Scenes
+┃ ┣ 📂 Scripts
+┃ ┃ ┣ 📜 GameManager.cs
+┃ ┃ ┣ 📜 GridManager.cs
+┃ ┃ ┗ 📜 GridSquareManager.cs
+┣ 📂 Settings
+┣ 📂 TextMesh Pro
+┣ 📂 Packages
+┣ 📜 .gitignore
+┣ 📜 README.md
+┣ 📜 ticTacToe.sln
+┗ 📜 Assembly-CSharp.csproj
 
 ---
 
