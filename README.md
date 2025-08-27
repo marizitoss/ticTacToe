@@ -60,13 +60,7 @@ The enemy AI uses the **Minimax algorithm**:
 ---
 
 ## 🖥 How to Run
-1. Open the project in **Unity 2021+**  
-2. Make sure **TextMeshPro** is installed in your project  
-3. In the scene, set up:  
-   - A **GameManager** object (linked to UI elements)  
-   - A **GridManager** with 9 `GridSquareManager` children  
-   - Each **GridSquareManager** connected to its square (button/text)  
-4. Press ▶️ **Play** and start playing!  
+1. You can find the exe here -> https://marizitoss.itch.io/tic-tac-toe
 
 ---
 
